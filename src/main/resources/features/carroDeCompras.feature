@@ -1,7 +1,7 @@
 # new feature
 # Tags: optional
 
-@FeatureName:RealizarCompraDeProductos
+@FeatureName:CompraDeProductos
 Feature: Yo como usuario quiero regístrame en la página y realizar la compra de dos productos.
 
   @ScenarioName:VerificacionDePrecios
